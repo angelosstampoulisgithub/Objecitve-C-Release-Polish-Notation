@@ -1,0 +1,544 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D62F56FD2CFF7E9C009598A1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D62F56DF2CFF7E9B009598A1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D62F56E62CFF7E9B009598A1;
+			remoteInfo = "Objective-C-ReleasePolishNotation";
+		};
+		D62F57072CFF7E9D009598A1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D62F56DF2CFF7E9B009598A1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D62F56E62CFF7E9B009598A1;
+			remoteInfo = "Objective-C-ReleasePolishNotation";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D62F56E72CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Objective-C-ReleasePolishNotation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D62F56FC2CFF7E9C009598A1 /* Objective-C-ReleasePolishNotationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objective-C-ReleasePolishNotationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D62F57062CFF7E9D009598A1 /* Objective-C-ReleasePolishNotationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objective-C-ReleasePolishNotationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D62F56E92CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Objective-C-ReleasePolishNotation";
+			sourceTree = "<group>";
+		};
+		D62F56FF2CFF7E9C009598A1 /* Objective-C-ReleasePolishNotationTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Objective-C-ReleasePolishNotationTests";
+			sourceTree = "<group>";
+		};
+		D62F57092CFF7E9D009598A1 /* Objective-C-ReleasePolishNotationUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Objective-C-ReleasePolishNotationUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D62F56E42CFF7E9B009598A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D62F56F92CFF7E9C009598A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D62F57032CFF7E9D009598A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D62F56DE2CFF7E9B009598A1 = {
+			isa = PBXGroup;
+			children = (
+				D62F56E92CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation */,
+				D62F56FF2CFF7E9C009598A1 /* Objective-C-ReleasePolishNotationTests */,
+				D62F57092CFF7E9D009598A1 /* Objective-C-ReleasePolishNotationUITests */,
+				D62F56E82CFF7E9B009598A1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D62F56E82CFF7E9B009598A1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D62F56E72CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation.app */,
+				D62F56FC2CFF7E9C009598A1 /* Objective-C-ReleasePolishNotationTests.xctest */,
+				D62F57062CFF7E9D009598A1 /* Objective-C-ReleasePolishNotationUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D62F56E62CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D62F57102CFF7E9D009598A1 /* Build configuration list for PBXNativeTarget "Objective-C-ReleasePolishNotation" */;
+			buildPhases = (
+				D62F56E32CFF7E9B009598A1 /* Sources */,
+				D62F56E42CFF7E9B009598A1 /* Frameworks */,
+				D62F56E52CFF7E9B009598A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D62F56E92CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation */,
+			);
+			name = "Objective-C-ReleasePolishNotation";
+			packageProductDependencies = (
+			);
+			productName = "Objective-C-ReleasePolishNotation";
+			productReference = D62F56E72CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D62F56FB2CFF7E9C009598A1 /* Objective-C-ReleasePolishNotationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D62F57132CFF7E9D009598A1 /* Build configuration list for PBXNativeTarget "Objective-C-ReleasePolishNotationTests" */;
+			buildPhases = (
+				D62F56F82CFF7E9C009598A1 /* Sources */,
+				D62F56F92CFF7E9C009598A1 /* Frameworks */,
+				D62F56FA2CFF7E9C009598A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D62F56FE2CFF7E9C009598A1 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D62F56FF2CFF7E9C009598A1 /* Objective-C-ReleasePolishNotationTests */,
+			);
+			name = "Objective-C-ReleasePolishNotationTests";
+			packageProductDependencies = (
+			);
+			productName = "Objective-C-ReleasePolishNotationTests";
+			productReference = D62F56FC2CFF7E9C009598A1 /* Objective-C-ReleasePolishNotationTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D62F57052CFF7E9D009598A1 /* Objective-C-ReleasePolishNotationUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D62F57162CFF7E9D009598A1 /* Build configuration list for PBXNativeTarget "Objective-C-ReleasePolishNotationUITests" */;
+			buildPhases = (
+				D62F57022CFF7E9D009598A1 /* Sources */,
+				D62F57032CFF7E9D009598A1 /* Frameworks */,
+				D62F57042CFF7E9D009598A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D62F57082CFF7E9D009598A1 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D62F57092CFF7E9D009598A1 /* Objective-C-ReleasePolishNotationUITests */,
+			);
+			name = "Objective-C-ReleasePolishNotationUITests";
+			packageProductDependencies = (
+			);
+			productName = "Objective-C-ReleasePolishNotationUITests";
+			productReference = D62F57062CFF7E9D009598A1 /* Objective-C-ReleasePolishNotationUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D62F56DF2CFF7E9B009598A1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					D62F56E62CFF7E9B009598A1 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					D62F56FB2CFF7E9C009598A1 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D62F56E62CFF7E9B009598A1;
+					};
+					D62F57052CFF7E9D009598A1 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D62F56E62CFF7E9B009598A1;
+					};
+				};
+			};
+			buildConfigurationList = D62F56E22CFF7E9B009598A1 /* Build configuration list for PBXProject "Objective-C-ReleasePolishNotation" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D62F56DE2CFF7E9B009598A1;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D62F56E82CFF7E9B009598A1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D62F56E62CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation */,
+				D62F56FB2CFF7E9C009598A1 /* Objective-C-ReleasePolishNotationTests */,
+				D62F57052CFF7E9D009598A1 /* Objective-C-ReleasePolishNotationUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D62F56E52CFF7E9B009598A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D62F56FA2CFF7E9C009598A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D62F57042CFF7E9D009598A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D62F56E32CFF7E9B009598A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D62F56F82CFF7E9C009598A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D62F57022CFF7E9D009598A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D62F56FE2CFF7E9C009598A1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D62F56E62CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation */;
+			targetProxy = D62F56FD2CFF7E9C009598A1 /* PBXContainerItemProxy */;
+		};
+		D62F57082CFF7E9D009598A1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D62F56E62CFF7E9B009598A1 /* Objective-C-ReleasePolishNotation */;
+			targetProxy = D62F57072CFF7E9D009598A1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D62F570E2CFF7E9D009598A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D62F570F2CFF7E9D009598A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D62F57112CFF7E9D009598A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Objective-C-ReleasePolishNotation/Objective_C_ReleasePolishNotation.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-ReleasePolishNotation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Debug;
+		};
+		D62F57122CFF7E9D009598A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Objective-C-ReleasePolishNotation/Objective_C_ReleasePolishNotation.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-ReleasePolishNotation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Release;
+		};
+		D62F57142CFF7E9D009598A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-ReleasePolishNotationTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Objective-C-ReleasePolishNotation.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Objective-C-ReleasePolishNotation";
+			};
+			name = Debug;
+		};
+		D62F57152CFF7E9D009598A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-ReleasePolishNotationTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Objective-C-ReleasePolishNotation.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Objective-C-ReleasePolishNotation";
+			};
+			name = Release;
+		};
+		D62F57172CFF7E9D009598A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-ReleasePolishNotationUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_TARGET_NAME = "Objective-C-ReleasePolishNotation";
+			};
+			name = Debug;
+		};
+		D62F57182CFF7E9D009598A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-ReleasePolishNotationUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_TARGET_NAME = "Objective-C-ReleasePolishNotation";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D62F56E22CFF7E9B009598A1 /* Build configuration list for PBXProject "Objective-C-ReleasePolishNotation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D62F570E2CFF7E9D009598A1 /* Debug */,
+				D62F570F2CFF7E9D009598A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D62F57102CFF7E9D009598A1 /* Build configuration list for PBXNativeTarget "Objective-C-ReleasePolishNotation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D62F57112CFF7E9D009598A1 /* Debug */,
+				D62F57122CFF7E9D009598A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D62F57132CFF7E9D009598A1 /* Build configuration list for PBXNativeTarget "Objective-C-ReleasePolishNotationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D62F57142CFF7E9D009598A1 /* Debug */,
+				D62F57152CFF7E9D009598A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D62F57162CFF7E9D009598A1 /* Build configuration list for PBXNativeTarget "Objective-C-ReleasePolishNotationUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D62F57172CFF7E9D009598A1 /* Debug */,
+				D62F57182CFF7E9D009598A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D62F56DF2CFF7E9B009598A1 /* Project object */;
+}
